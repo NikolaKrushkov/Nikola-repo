@@ -5,7 +5,8 @@ Project Lighweight
 
 
 
-💻 About
+💻 About:
+
 This is simple site to learn the history of famous bodybuilders.
 
 🗂️ Used technologies
